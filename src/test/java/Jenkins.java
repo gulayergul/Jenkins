@@ -1,5 +1,3 @@
-package tests;
-
 import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertTrue;
@@ -63,7 +61,7 @@ public class Jenkins {
 
     @Test
     void Test14(){
-        assertTrue(true);
+        assertTrue(false);
     }
 
     @Test
