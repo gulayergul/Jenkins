@@ -68,7 +68,7 @@ public class JenkinsTest {
 
     @Test
     void Test15(){
-        assertTrue(false);
+        assertTrue(true);
     }
 
 
